@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Ronit
 # 💫 About Me:
 - 🛠️ I'm a developer who loves building end-to-end products—especially at the intersection of AI, full-stack development, and human-centered design.<br>- 🧩 Currently working on [GymBro](#), an AI fitness assistant with real-time voice interaction.<br>- 🎯 I enjoy making things that are useful, fast, and just a little bit delightful.<br>- 🧪 Always experimenting with new tools, ideas, and frameworks.
 
