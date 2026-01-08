@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ronit Sohal
 
-- **CS & Applied Math** major @ **:contentReference[oaicite:0]{index=0}**
+- **CS & Applied Math** major @ **JHU**
 - Focused on **back-end development**, **systems engineering**, and **AI**
 - Building **AI-powered and data-driven applications**, from algorithms to production pipelines
 - Passionate about **impact-driven engineering** and shipping scalable, well-designed software
